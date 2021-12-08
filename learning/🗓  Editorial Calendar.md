@@ -6,11 +6,11 @@ kanban-plugin: basic
 
 ## Ideas
 
-- [ ] OKRs as a goal-setting technique
+- [ ] [[OKRs as a goal-setting technique]]
 - [ ] [[Mindful consumption]]
-- [ ] Your own book of licks
 - [ ] How do you create a [[💡 Kanban]] for learning an instrument?
 - [ ] [[The  shed  as  your  own space]]
+- [ ] [[The practice identity conflict]]
 
 
 ## Outline
@@ -18,10 +18,12 @@ kanban-plugin: basic
 - [ ] [[Goals vs. The Process]]
 - [ ] [[A personal Kanban]]
 - [ ] [[💡 Kanban]]
+- [ ] [[💡 Emergence]]
 
 
 ## Draft
 
+- [ ] [[Your own book of licks]]
 
 
 ## First Edit

@@ -1,0 +1,1 @@
+a bunch of advice says "forget that you're a writer", other advice says "you're a singer, and singers sing"

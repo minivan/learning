@@ -21,6 +21,9 @@ Goals are focused on the outcome and often include things that are completely ou
 - an example of starting something and then, as you get closer to it, realizing that it's not such a big deal
 	- anecdote about publishing from [[📚 Bird by Bird]] (from the introduction)
 
+### 4. They often don't lead to good practice
+- if my goal is to perform in a local band, it's difficult to backtrack that to playing my scales. I can forget the scales and design my practice around something that resembles my outcomes. Good outcomes [[💡 Emergence|emerge]], they don't happen.
+
 ## Making goals relevant again
 
 ### 1. Use goals to inform your initial practice, create a timeline, and do a reality check.

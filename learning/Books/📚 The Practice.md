@@ -8,7 +8,14 @@
 	- Before you're a "bestselling author", you're a author, and writers author.
 - *META: there are a lot of appeals to authority in this book*
 - Drew's  cartoons: https://alearningaday.blog/2021/01/21/drew-dernavichs-desk/
-- This is a bit motivating — it helps me remember that I actually like practicing
+- *META: This is a bit motivating — it helps me remember that I actually like practicing*
+- **Consider the locksmith:** a locksmith tries many keys. Every key that fails is a data point. The software engineer doesn't take bugs personally.
+
+# Review
+
+100 pages in, I'm giving up, it's not for me. The book can serve as a lift-me-up, but it's written in such a self-serving way, it's difficult to take it seriously. It takes the same point over and over again and does it through short, almost tweet-sized platitudes that are, undoubtedly, applicable, but lack any kind of nuance. I get it — I find myself repeating — you'll give me an example and tell me why practicing is important and then you'll move to another short chapter.
+
+And maybe I'm reading this wrong. Perhaps this book wasn't written as a book (it wasn't), and more like a series of blog posts, each one giving you the motivation to sit down and do the work. Perhaps reading the book as one normally would is like drinking from a firehose. I heard that you can't feel the nuance when you drink from the firehose, either.
 
 # Quotes
 
