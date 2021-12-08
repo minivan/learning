@@ -11,6 +11,7 @@ kanban-plugin: basic
 - [ ] How do you create a [[💡 Kanban]] for learning an instrument?
 - [ ] [[The  shed  as  your  own space]]
 - [ ] [[The practice identity conflict]]
+- [ ] [[Genre Studies]]
 
 
 ## Outline

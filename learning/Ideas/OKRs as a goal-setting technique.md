@@ -12,4 +12,6 @@ A couple of years ago I started to learn to sing. I found a fantastic teacher (I
 
 My bass teacher used to say: "Tina Weymouth didn't know how to play bass. She was part of the Talking Heads first." If what I'd like is to join a band, then scales might not help.
 
-So, back to the example of the piano. Let's say, in a year, what would make you very happy about learning to play the piano? Playing a song or two at the local open mic?
+So, back to the example of the piano. Let's say, in a year, what would make you very happy about learning to play the piano? Playing a song or two at the local open mic? Wait, no OKRs yet! If that's the dream, you can distill it into smaller steps. For example, you can look at whether it's realistic to get there in a year. You can take a look at a course and see how many hours do they have. If it's 400 hours, will you have that + some practice time for a year? If yes, then it's likely that you might succeed in this. Then you can move to the next step.
+
+The next step is figuring out that small piece, something that you can start with.
