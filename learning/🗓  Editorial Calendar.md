@@ -12,6 +12,8 @@ kanban-plugin: basic
 - [ ] [[The  shed  as  your  own space]]
 - [ ] [[The practice identity conflict]]
 - [ ] [[Genre Studies]]
+- [ ] [[Developing a Gut Feeling]]
+- [ ] [[Design Your Practice]]
 
 
 ## Outline

@@ -1,6 +1,5 @@
 ---
 source: https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf
-type: essay
 ---
 #essay
 
