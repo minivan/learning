@@ -18,10 +18,26 @@ At this level you can also [[OKRs as a goal-setting technique|conceptualize succ
 
 At this point, you'll also probably start looking for mentors or teachers. Someone who has been there, someone to tell you what the best practices are (or better yet, to *show* you). 
 
+Many people stay at this point. You'll learn a couple of songs on the piano and get them for every second family gathering. It takes little effort (but still, non-zero effort) to keep this level up, and the skills gained until here do not dissipate quickly.
 
 ## Level 3. Practice & Quantity
 
-Simply sitting down at the piano every day and playing *anything* only works up to a certain point. After you know what it takes to 
+Simply sitting down at the piano every day and playing *anything* only works up to a certain point. After you know **where you want to initially get**, and **what does it take to get there,** you can start designing *your* practice.
+
+This is where it gets interesting. You have probably been practicing before, but this is slightly different. Before you were given a practice routine: "practice scales", or "write 720 words", at this point you've already practiced enough in the prescribed way that you have a better awareness of your strengths and weaker spots that you can design a practice for yourself. This new routine will make YOU better.
+
+This level is the hardest to comfortably stay in. It might take months or years, the feedback loop is long, and the results might seem further and further away.
+There are a couple techniques that can help reduce the cost of willpower required to continue the practice:
+- make a commitment — write about the practice, make the improvement visible
+- join a community — a band, a troupe, a club
+- set clearer intermediate goals
+
+By this point, we're also developing *taste.* Taste is insanely difficult to teach.
+
+## Level 4-ish. Style & Genres
+
+
+
 
 ## On the boundaries between levels
 
